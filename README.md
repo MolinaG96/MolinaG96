@@ -2,7 +2,7 @@
 
 # Welcome to Repository of Gonzalo Molina
 
-##Full Stack Software Developer - Graduated from Plataforma5
+##Full Stack Software Developer  Graduated from Plataforma5
 
 ## About Me
 
