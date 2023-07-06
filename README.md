@@ -28,6 +28,7 @@ I'm truly excited to embark on my professional journey in the programming field 
 [![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Nodemailer](https://img.shields.io/badge/-Nodemailer-red?style=flat-square&logo=nodemailer&logoColor=white)](https://nodemailer.com/)
+[![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-blueviolet?style=flat-square&logo=chakra-ui&logoColor=white)](https://chakra-ui.com/)
 
 ## Contact
 
