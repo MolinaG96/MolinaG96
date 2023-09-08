@@ -31,6 +31,9 @@ I'm truly excited to embark on my professional journey in the programming field 
 [![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-blueviolet?style=flat-square&logo=chakra-ui&logoColor=white)](https://chakra-ui.com/)
 [![Vite](https://img.shields.io/badge/-Vite-yellow?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## Contact
 
