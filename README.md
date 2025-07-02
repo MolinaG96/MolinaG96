@@ -34,6 +34,7 @@ I'm truly excited to embark on my professional journey in the programming field 
 [![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-purple?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/)
 
 ## Contact
 
